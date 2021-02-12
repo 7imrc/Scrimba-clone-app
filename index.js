@@ -1,5 +1,7 @@
 const myEmojis = ["👨‍💻", "⛷", "🍲"]
 
+// just a little text to show changes in the file for github on a second branch
+
 function renderEmojis() {
     const emojiContainer = document.getElementById("emoji-container")
     emojiContainer.innerHTML = ""
